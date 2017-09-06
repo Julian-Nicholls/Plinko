@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PegSpawner.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\BallSpawner.cs">
     <Files>
       <File FileName="Assets\Scripts\PegSpawner.cs" Line="30" Column="23" />
+      <File FileName="Assets\BallSpawner.cs" Line="12" Column="78" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
